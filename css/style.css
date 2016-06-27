@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.div {
+	width: 1366px;
+	height: 950px;
+}
+
+.conteiner {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #C8C8C8;
+  background-color: rgb( 255, 255, 255 );
+  position: absolute;
+  width: 1000px;
+  margin-left: 150px;
+}
+
+.logo {
+	margin: 50px 50px 30px 50px;
+}
+
+.header {
+    background-color: #555555;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.header li {
+	position: relative;
+	overflow: hidden;
+	clear: both;
+	height: 25px;
+	display: inline-block;
+	font-size: 17px;
+	margin-left: 25px; 
+    padding-top: 10px;
+}
+
+.leftmenu {
+width: 150px;
+float: left;
+margin-left: 50px;
+margin-top:  40px;
+padding-left: 50px;
+line-height: 2.8;
+text-align: left;
+list-style-type: none;
+border: 1px solid #C8C8C8;
+}
+
+.content {
+width: 600px;
+padding-left: 50px;
+padding-bottom: 50px;
+line-height: 1.6;
+float: left;
+}
+
+p {
+	padding-left: 25px;
+}
+
+.foto2 {
+	margin-top: 40px;
+	margin-bottom: 30px;
+	padding: 50px 0 50px 50px;
+    width: 100%;
+    border: 1px solid #C8C8C8;
+
+}
+
+.footer {
+background-color: #e1e1e1;
+clear: both;
+width: 900px;
+height: 40px;
+margin-left: 50px;
+margin right: 50px;
+}
+
+.footer li {
+    position: relative;
+	overflow: hidden;
+	clear: both;
+	height: 25px;
+	display: inline-block;
+	font-size: 17px;
+	margin-left: 25px; 
+    padding-top: 10px;
+}
